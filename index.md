@@ -9,7 +9,7 @@ OneTV can be installed on Phones, Tablets and TV devices.
 
 The app is free!
 
-### **Disclaimer***
+### **Disclaimer**
 
 We are not providing the channels ourselves and all the channels provided on OneTV are publicly available on the Internet. To the best of our knowledge, the owners of channels intended the channels to be watched through various Internet browsers and live TV streaming interfaces, such as OneTV. If you are the owner of a channel and would not want the channel to be available on OnTV, please send us a formal request to remove the channel.
 
