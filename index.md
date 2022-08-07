@@ -1,7 +1,9 @@
 
 ### About OneTV
 
-OneTV provides an interface to watch the free and publically available on the web Live TV channels in one place. Users can add aditional channels by providing the URL to a web page that streams a publicallay available live TV channel.
+OneTV provides an interface to watch the free and publically available on the web Live TV channels in one place.
+
+Users can add aditional channels by providing the URL to a web page that streams a publicallay available live TV channel.
 
 The app is designed for great user experience by providing a smooth and fast user interface. 
 
