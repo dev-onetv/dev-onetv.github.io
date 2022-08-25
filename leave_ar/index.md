@@ -5,3 +5,5 @@
 الخبر السار هو أنه يمكنك الاستمرار في استخدام OnTV كما هو الآن ، طالما أردت ذلك. تحتاج فقط إلى تعطيل تحديث تطبيق OneTV في Google Play كما هو موضح في الصورة التالية:
 
 إليك أيضًا نسخة من APK الحالي لمصدر OneTV ، في حالة تحديث التطبيق عن طريق الخطأ:
+
+[OneTV Release 29.1 (إصدار OneTV 29.1)](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/OneTV_Release_29_1.apk)
