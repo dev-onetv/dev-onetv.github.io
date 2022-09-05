@@ -17,7 +17,7 @@ We are not providing the channels ourselves and all the channels provided on One
 
 ### **Request to Remove Channels**
 
-If you are the owner of a channel and would not want the channel to be available on OneTV, please send us an email at developer.onetv@gmail.com and we will remove the channels immediately.
+If you are the owner of a channel and would not want the channel to be available on OneTV, please send us an email at developer.onetv@gmail.com and we will remove the channel immediately.
 
 ### **Privacy Policy**
 
