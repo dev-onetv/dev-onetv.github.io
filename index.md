@@ -13,7 +13,11 @@ The app is free!
 
 ### **Disclaimer**
 
-We are not providing the channels ourselves and all the channels provided on OneTV are publicly available on the Internet. To the best of our knowledge, the owners of channels intended the channels to be watched through various Internet browsers and live TV streaming interfaces, such as OneTV. If you are the owner of a channel and would not want the channel to be available on OneTV, please send us a formal request to remove the channel.
+We are not providing the channels ourselves and all the channels provided on OneTV are publicly available on the Internet. To the best of our knowledge, the owners of channels intended the channels to be watched through various Internet browsers and live TV streaming interfaces, such as OneTV.
+
+### **Request to Remove Channels**
+
+If you are the owner of a channel and would not want the channel to be available on OneTV, please send us an email at developer.onetv@gmail.com and we will remove the channels immediately.
 
 ### **Privacy Policy**
 
