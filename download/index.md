@@ -1,6 +1,16 @@
-```js
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script>
-...do stuff...
-</script>
-```
+$('#answer-example-share-button').on('click', () => {
+  if (navigator.share) {
+    navigator.share({
+        title: 'Web Share API Draft',
+        text: 'Take a look at this spec!',
+        url: 'https://wicg.github.io/web-share/#share-method',
+      })
+      .then(() => console.log('Successful share'))
+      .catch((error) => console.log('Error sharing', error));
+  } else {
+    console.log('Share not supported on this browser, do it the old way.');
+  }
+});
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<button id='answer-example-share-button'>Share!</button>
