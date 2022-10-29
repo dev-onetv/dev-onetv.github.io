@@ -1,5 +1,5 @@
 <script>
-function myFunction() {
+function shareFunction() {
   if (navigator.share) {
     navigator.share({
         title: 'Web Share API Draft',
@@ -30,6 +30,6 @@ function myFunction() {
 4. [APKCombo](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
 5. [Myket - مایکت](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
 
-
-
-<button id='answer-example-share-button' onclick="myFunction()">Share!</button>
+# Share OneTV - به اشتراک گذاشتن وان تی وی
+1. <button id='share-button' onclick="shareFunction()">Share - اشتراک گذاری</button>
+2. QR Code to Scan - کد QR برای اسکن
