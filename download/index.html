@@ -1,5 +1,5 @@
 <script>
-('#answer-example-share-button').on('click', () => {
+function myFunction() {
   if (navigator.share) {
     navigator.share({
         title: 'Web Share API Draft',
@@ -11,9 +11,8 @@
   } else {
     console.log('Share not supported on this browser, do it the old way.');
   }
-});
-
+}
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<button id='answer-example-share-button'>Share!</button>
+<button id='answer-example-share-button' onclick="myFunction()">Share!</button>
