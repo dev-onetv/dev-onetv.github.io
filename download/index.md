@@ -21,21 +21,14 @@ function myFunction() {
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-Download from Google Play - :
 
-[download link - ](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
+# Download OneTV - دانلود وان تی وی
 
-Download from Amazon App Store - :
-
-[download link - ](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
-
-Download from APKCombo - :
-
-[download link - ](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
-
-Download from Directlt Link - :
-
-[download link - ](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_30_0.apk){:target="_blank"}
+1. [Google Play - گوگل پلی](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
+2. [Directlt Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_30_0.apk){:target="_blank"}
+3. [Amazon App Store - آمازون آپ استور](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
+4. [APKCombo](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
+5. [Myket - مایکت](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
 
 
 
