@@ -46,7 +46,7 @@ The app is free!
 
 <img src="https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png" alt="QR Code to Scan - کد کیو آر برای اسکن" style="width:300px;"/>
 
-![QR Code to Scan - کد کیو آر برای اسکن](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png)
+<!-- ![QR Code to Scan - کد کیو آر برای اسکن](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png) -->
 
 
 ### **Disclaimer**
