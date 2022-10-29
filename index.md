@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 <script>
 function shareFunction() {
   if (navigator.share) {
