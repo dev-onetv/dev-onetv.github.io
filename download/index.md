@@ -2,19 +2,16 @@
 function shareFunction() {
   if (navigator.share) {
     navigator.share({
-        title: 'Web Share API Draft',
-        text: 'Take a look at this spec!',
-        url: 'https://wicg.github.io/web-share/#share-method',
+        title: 'Checkout "OneTV - Persian TV"',
+        text: 'Checkout "OneTV - Persian TV"',
+        url: 'https://dev-onetv.github.io/',
       })
-      .then(() => console.log('Successful share'))
       .catch((error) => console.log('Error sharing', error));
   } else {
-    console.log('Share not supported on this browser, do it the old way.');
     var email = 'sample@gmail.com';
-    var subject = 'Test';
-    var emailBody = 'Hi Sample,';
-    var attach = 'path';
-    document.location = "mailto:"+email+"?subject="+subject+"&body="+emailBody;
+    var subject = 'Checkout "OneTV - Persian TV"';
+    var emailBody = 'Checkout "OneTV - Persian TV" at: https://dev-onetv.github.io/';
+    document.location = "mailto:?subject="+subject+"&body="+emailBody;
   }
 }
 </script>
@@ -36,4 +33,4 @@ function shareFunction() {
 
 # Share - به اشتراک گذاشتن
 1. <button id='share-button' onclick="shareFunction()" style="border: none; background: none;">Share - اشتراک گذاری</button>
-2. QR Code to Scan - کد QR برای اسکن ![QR Code to Scan - کد QR برای اسکن](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png)
+2. QR Code - کد کیو آر ![QR Code to Scan - کد QR برای اسکن](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png)
