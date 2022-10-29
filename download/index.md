@@ -32,7 +32,10 @@ function shareFunction() {
 *   [Myket - مایکت](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
 
 # Share - به اشتراک گذاشتن
-*   <button id='share-button' onclick="shareFunction()" style="border: none; background: #373737; color: #0c68da; font-size: 16px">Share - اشتراک گذاری</button>
+*   <button id='share-button' onclick="shareFunction()" style="background-color: #EDEFF2; box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset; transition: none 0s>Share - اشتراک گذاری</button>
 *   QR Code - کد کیو آر
 
 ![QR Code to Scan - کد QR برای اسکن](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png)
+
+<!-- "style="border: none; background: #373737; color: #0c68da; font-size: 16px" -->
+
