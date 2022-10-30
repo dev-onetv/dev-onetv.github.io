@@ -3,14 +3,14 @@ function shareFunction() {
   if (navigator.share) {
     navigator.share({
         title: 'Checkout "OneTV - Persian TV"',
-        text: 'Checkout "OneTV - Persian TV" at: ',
+        text: 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneTV - Persian TV". You can download the app at: ',
         url: 'https://dev-onetv.github.io/',
       })
       .catch((error) => console.log('Error sharing', error));
   } else {
     var email = 'sample@gmail.com';
     var subject = 'Checkout "OneTV - Persian TV"';
-    var emailBody = 'Checkout "OneTV - Persian TV" at: https://dev-onetv.github.io/';
+    var emailBody = 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneTV - Persian TV". You can download the app at: https://dev-onetv.github.io/';
     document.location = "mailto:?subject="+subject+"&body="+emailBody;
   }
 }
