@@ -15,6 +15,7 @@ function shareFunction() {
     if (! isWebView) {
       document.location = "mailto:?subject="+subject+"&body="+emailBody;
     }
+    console.log(navigator.userAgent.match("1"))
   }
 }
 </script>
