@@ -1,5 +1,4 @@
 <script>
-<script>
 function shareFunction() {
   if (navigator.share) {
     navigator.share({
