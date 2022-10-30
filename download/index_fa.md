@@ -20,7 +20,7 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### **Download OneTV - دانلود وان تی وی**
+### **Download OneTV - (آخرین نسخه: ۳۰.۰، ۲۵ شهریور ۱۴۰۱) دانلود وان تی وی**
 
 *   [Google Play - گوگل پلی](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
