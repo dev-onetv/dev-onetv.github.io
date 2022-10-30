@@ -2,15 +2,15 @@
 function shareFunction() {
   if (navigator.share) {
     navigator.share({
-        title: 'این برنامه را مشاهده کنید: "وان تی وی - ماهواره و تلویزیون"',
-        text: 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "وان تی وی - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را در آدرس زیر دانلود کنید:',
+        title: 'این برنامه را مشاهده کنید: "OneTV - ماهواره و تلویزیون"',
+        text: 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در برنامه "وان تی وی - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را در آدرس زیر دانلود کنید:',
         url: 'https://dev-onetv.github.io/download/index_fa',
       })
       .catch((error) => console.log('Error sharing', error));
   } else {
     var email = 'sample@gmail.com';
     var subject = 'Checkout "OneTV - Persian TV"';
-    var emailBody = 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "وان تی وی - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را در آدرس زیر دانلود کنید: https://dev-onetv.github.io/download/index_fa';
+    var emailBody = 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "OneTV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید: https://dev-onetv.github.io/download/index_fa';
     document.location = "mailto:?subject="+subject+"&body="+emailBody;
   }
 }
