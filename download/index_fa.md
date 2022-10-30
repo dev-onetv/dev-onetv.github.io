@@ -11,7 +11,12 @@ function shareFunction() {
     var email = 'sample@gmail.com';
     var subject = 'Checkout "OneTV - Persian TV"';
     var emailBody = 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "OneTV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید: https://dev-onetv.github.io/download/index_fa';
-    document.location = "mailto:?subject="+subject+"&body="+emailBody;
+    try {
+      document.location = "mailto:?subject="+subject+"&body="+emailBody;;
+    }
+    catch(err) {
+      console.log('Error sharing', error);
+    }
   }
 }
 </script>
