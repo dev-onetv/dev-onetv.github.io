@@ -36,6 +36,6 @@ function shareFunction() {
   
   <br/><br/>
   
-  <img src="https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png" alt="QR Code to Scan - کد کیو آر برای اسکن" style="width:200px;" onclick="shareFunction()"/>
+  <img src="https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png" alt="کد کیو آر برای اسکن" style="width:200px;" onclick="shareFunction()"/>
 </p>
 
