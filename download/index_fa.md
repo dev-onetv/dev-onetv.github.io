@@ -20,7 +20,6 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<p dir="rtl" alight="right">
 
 ### **دانلود وان تی وی (آخرین نسخه: ۳۰.۰، ۲۵ شهریور ۱۴۰۱)**
 
@@ -33,9 +32,6 @@ function shareFunction() {
 *   [ای پی کی کمبو](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
 
 *   [مایکت](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
-
-
-</p>
 
 
 <p align="center">
