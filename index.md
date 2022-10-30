@@ -11,11 +11,9 @@ function shareFunction() {
     var email = 'sample@gmail.com';
     var subject = 'Checkout "OneTV - Persian TV"';
     var emailBody = 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneTV - Persian TV". You can download the app at: https://dev-onetv.github.io/';
-    try {
-      document.location = "mailto:?subject="+subject+"&body="+emailBody;;
-    }
-    catch(err) {
-      console.log('Error sharing', error);
+    var isWebView = navigator.userAgent.match("1") != null;
+    if (! isWebView) {
+      document.location = "mailto:?subject="+subject+"&body="+emailBody;
     }
   }
 }
