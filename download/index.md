@@ -20,7 +20,7 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### **Download OneTV (Latest Release: 30.0 - Dec. 23, 2022)**
+### **Download OneTV (Latest Release: 31.0 - Dec. 23, 2022)**
 
 *   [Google Play](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
