@@ -20,11 +20,11 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### **Download OneTV (Latest Release: 31.4 - Dec. 23, 2022)**
+### **Download OneTV (Latest Release: 31.8 - Dec. 24, 2022)**
 
 *   [Google Play](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
-*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_31_4.apk){:target="_blank"}
+*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_31_8.apk){:target="_blank"}
 
 *   [Amazon App Store](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
