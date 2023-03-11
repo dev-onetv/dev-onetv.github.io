@@ -32,11 +32,11 @@ OneTV can be installed on Phones, Tablets and TV devices.
 
 The app is free!
 
-### **Download OneTV (Latest Release: 32.1 - Dec. 26, 2022)**
+### **Download OneTV (Latest Release: 33.0 - March 11, 2023)**
 
 *   [Google Play](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
-*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_32_1.apk){:target="_blank"}
+*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_33_0.apk){:target="_blank"}
 
 *   [Amazon App Store](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
