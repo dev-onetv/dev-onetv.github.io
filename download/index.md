@@ -30,8 +30,6 @@ function shareFunction() {
 
 *   [APKCombo](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
 
-*   [Myket](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
-
 
 
 <p align="center">
