@@ -29,8 +29,6 @@ function shareFunction() {
 *   [Amazon App Store - آمازون اپ استور](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
 *   [APKCombo - ای پی کی کمبو](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
-
-*   [Myket - مایکت](https://myket.ir/app/com.kamal.androidtv){:target="_blank"}
   
 
 
