@@ -30,5 +30,4 @@ function shareFunction() {
 *   [Google Play - گوگل پلی](https://play.google.com/store/apps/details?id=com.kamal.androidtv)
 *   [Direct Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_30_0.apk)
 *   [Amazon App Store - آمازون آپ استور](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1)
-*   [APKCombo - ای پی کی کمبو](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/)
-*   [Myket - مایکت](https://myket.ir/app/com.kamal.androidtv)
+*   [ApkPure - ای پی کی پیور](https://apkpure.com/onetv-persian-tv/com.kamal.androidtv/download)
