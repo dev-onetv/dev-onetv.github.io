@@ -40,7 +40,7 @@ The app is free!
 
 *   [Amazon App Store](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
-*   [APKCombo](https://apkcombo.com/onetv-persian-tv/com.kamal.androidtv/){:target="_blank"}
+*   [ApkPure](https://apkpure.com/onetv-persian-tv/com.kamal.androidtv){:target="_blank"}
 
 
 <p align="center">
