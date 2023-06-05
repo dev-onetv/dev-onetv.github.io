@@ -20,11 +20,11 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### **دانلود وان تی وی (آخرین نسخه: ۳۳.۹ - ۲۵ اسفند ۱۴۰۱)**
+### **دانلود وان تی وی (آخرین نسخه: ۳۴.۰ - ۱۵ خرداد ۱۴۰۲)**
   
 *   [Google Play - گوگل پلی](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
-*   [Direct Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_33_9.apk){:target="_blank"}
+*   [Direct Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_34_0.apk){:target="_blank"}
 
 *   [Amazon App Store - آمازون اپ استور](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
