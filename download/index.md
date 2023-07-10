@@ -30,6 +30,8 @@ function shareFunction() {
 
 *   [ApkPure](https://apkpure.com/onetv-persian-tv/com.kamal.androidtv){:target="_blank"}
 
+*   [OneTV Telegram Channel](https://t.me/onetv_persian){:target="_blank"}
+
 
 
 <p align="center">
