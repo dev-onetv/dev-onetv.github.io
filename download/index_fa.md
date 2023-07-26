@@ -43,9 +43,9 @@ function shareFunction() {
 </p>
 
 
-### ***دانلود وان تی وی برای برای سیستم عامل ویندوز (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
+### ***دانلود وان تی وی برای برای سیستم عامل ویندوز (نسخه آزمایشی: ۱.۰.۰)**
  *   [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Windows.exe){:target="_blank"}
    
-### ***دانلود وان تی وی برای سیستم عامل مک (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
+### ***دانلود وان تی وی برای سیستم عامل مک (نسخه آزمایشی: ۱.۰.۰)**
  *   [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Mac.dmg){:target="_blank"}
   
