@@ -43,8 +43,8 @@ function shareFunction() {
 
 
 
-### **Download OneTV for Windows (Latest Release: 1.0.0 - July 23, 2023)**
+### **Download OneTV for Windows (Beta Version: 1.0.0)**
  *   [Direct Download](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Windows.exe){:target="_blank"}
    
-### **Download OneTV for Mac (Latest Release: 1.0.0 - July 23, 2023)**
+### **Download OneTV for Mac (Beta Version: : 1.0.0)**
  *   [Direct Download](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Mac.dmg){:target="_blank"}
