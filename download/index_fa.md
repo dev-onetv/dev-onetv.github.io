@@ -33,7 +33,7 @@ function shareFunction() {
 *   [OneTV Telegram Channel - کانال تلگرام وان تی وی](https://t.me/onetv_persian){:target="_blank"}
   
 
-### ***دانلود وان تی وی برای برای سیستم عامل ویندوز (نسخه آزمایشی: ۱.۰.۰)**
+### ***دانلود وان تی وی برای سیستم عامل ویندوز (نسخه آزمایشی: ۱.۰.۰)**
  *   [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Windows.exe){:target="_blank"}
    
 ### ***دانلود وان تی وی برای سیستم عامل مک (نسخه آزمایشی: ۱.۰.۰)**
