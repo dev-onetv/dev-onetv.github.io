@@ -32,12 +32,6 @@ function shareFunction() {
 
 *   [OneTV Telegram Channel - کانال تلگرام وان تی وی](https://t.me/onetv_persian){:target="_blank"}
 
-### ***دانلود وان تی وی برای برای سیستم عامل ویندوز (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
- *  [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Windows.exe){:target="_blank"}
-   
-### ***دانلود وان تی وی برای سیستم عامل مک (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
- *  [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Mac.dmg){:target="_blank"}
-  
 
 
 <p align="center">  
@@ -47,3 +41,11 @@ function shareFunction() {
   
   <img src="https://github.com/dev-onetv/dev-onetv.github.io/raw/main/images/webpage_qr_code.png" alt="کد کیو آر برای اسکن" style="width:200px;" onclick="shareFunction()"/>
 </p>
+
+
+### ***دانلود وان تی وی برای برای سیستم عامل ویندوز (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
+ *   [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Windows.exe){:target="_blank"}
+   
+### ***دانلود وان تی وی برای سیستم عامل مک (آخرین نسخه: ۱.۰.۰ - ۱ مرداد ۱۴۰۲)**
+ *   [Direct Download - دانلود مستقیم](https://ca-rt.onetv.app/releases/OneTV_Release_1_0_0_Mac.dmg){:target="_blank"}
+  
