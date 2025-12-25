@@ -2,15 +2,15 @@
 function shareFunction() {
   if (navigator.share) {
     navigator.share({
-        title: 'این برنامه را مشاهده کنید: "OneTV - ماهواره و تلویزیون"',
-        text: 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در برنامه "OneTV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید:',
+        title: 'این برنامه را مشاهده کنید: "OneElevate TV - ماهواره و تلویزیون"',
+        text: 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در برنامه "OneElevate TV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید:',
         url: 'https://dev-onetv.github.io/download/index_fa',
       })
       .catch((error) => console.log('Error sharing', error));
   } else {
     var email = 'sample@gmail.com';
-    var subject = 'Checkout "OneTV - Persian TV"';
-    var emailBody = 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "OneTV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید: https://dev-onetv.github.io/download/index_fa';
+    var subject = 'Checkout "OneElevate TV - Persian TV"';
+    var emailBody = 'شبکه های تلویزیونی فارسی، کردی (و بسیاری از زبان های دیگر) را به صورت زنده در "OneElevate TV - ماهواره و تلویزیون" تماشا کنید. می توانید برنامه را از آدرس زیر دانلود کنید: https://dev-onetv.github.io/download/index_fa';
     var isWebView = navigator.userAgent.indexOf("Android") != -1;
     if (! isWebView) {
 <!--       document.location = "mailto:?subject="+subject+"&body="+emailBody; -->
@@ -20,11 +20,11 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### **دانلود وان تی وی (آخرین نسخه: ۳۴.۷ - ۱۰ خرداد ۱۴۰۳)**
+### **دانلود وان تی وی (آخرین نسخه: ۳۴.۹ - ۴ دی ۱۴۰۴)**
   
 *   [Google Play - گوگل پلی](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
-*   [Direct Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_34_7.apk){:target="_blank"}
+*   [Direct Download - دانلود مستقیم](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_34_9.apk){:target="_blank"}
 
 *   [Amazon App Store - آمازون اپ استور](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
