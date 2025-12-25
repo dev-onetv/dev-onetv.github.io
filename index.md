@@ -2,15 +2,15 @@
 function shareFunction() {
   if (navigator.share) {
     navigator.share({
-        title: 'Checkout "OneTV - Persian TV"',
-        text: 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneTV - Persian TV". You can download the app at: ',
+        title: 'Checkout "OneElevate TV - Persian TV"',
+        text: 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneElevate TV - Persian TV". You can download the app at: ',
         url: 'https://dev-onetv.github.io/',
       })
       .catch((error) => console.log('Error sharing', error));
   } else {
     var email = 'sample@gmail.com';
-    var subject = 'Checkout "OneTV - Persian TV"';
-    var emailBody = 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneTV - Persian TV". You can download the app at: https://dev-onetv.github.io/';
+    var subject = 'Checkout "OneElevate TV - Persian TV"';
+    var emailBody = 'Watch Persian, Kurdish (and many other languages) TV Channels Live on "OneElevate TV - Persian TV". You can download the app at: https://dev-onetv.github.io/';
     var isWebView = navigator.userAgent.match("Android") != -1;
     if (! isWebView) {
 <!--       document.location = "mailto:?subject="+subject+"&body="+emailBody; -->
@@ -20,23 +20,23 @@ function shareFunction() {
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-### About OneTV
+### About OneElevate TV
 
-OneTV provides an interface to watch the free and publically available on the web Live TV channels in one place.
+OneElevate TV provides an interface to watch the free and publically available on the web Live TV channels in one place.
 
 Users can add aditional channels by providing the URL to a web page that streams a publicallay available live TV channel. The channels added by a user are private to the user and will not be shared with other users.
 
 The app is designed for great user experience by providing a smooth and fast user interface. 
 
-OneTV can be installed on Phones, Tablets and TV devices.
+OneElevate TV can be installed on Phones, Tablets and TV devices.
 
 The app is free!
 
-### **Download OneTV (Latest Release: 34.7 - May 31, 2024)**
+### **Download OneElevate TV (Latest Release: 34.9 - Dec 25, 2025)**
 
 *   [Google Play](https://play.google.com/store/apps/details?id=com.kamal.androidtv){:target="_blank"}
 
-*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_34_7.apk){:target="_blank"}
+*   [Direct Download](https://github.com/dev-onetv/dev-onetv.github.io/raw/main/releases/OneTV_Release_34_9.apk){:target="_blank"}
 
 *   [Amazon App Store](https://www.amazon.com/developer-onetv-gmail-com-OneTV-Persian-TV/dp/B09T2L7GN1){:target="_blank"}
 
@@ -46,7 +46,7 @@ The app is free!
 
 
 <p align="center">
-  <button id='share-button' onclick="shareFunction()" style="background-color: #111827; border: 1px solid transparent; border-radius: .75rem; box-sizing: border-box; color: #FFFFFF; cursor: pointer; flex: 0 0 auto; font-family: 'Inter var',ui-sans-serif,system-ui,-apple-system,system-ui,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size: 1.125rem; font-weight: 600; line-height: 1.5rem; padding: .75rem 1.2rem; text-align: center; text-decoration: none #6B7280 solid; text-decoration-thickness: auto; transition-duration: .2s; transition-property: background-color,border-color,color,fill,stroke; transition-timing-function: cubic-bezier(.4, 0, 0.2, 1); user-select: none; -webkit-user-select: none; touch-action: manipulation; width: auto;">Share OneTV</button>
+  <button id='share-button' onclick="shareFunction()" style="background-color: #111827; border: 1px solid transparent; border-radius: .75rem; box-sizing: border-box; color: #FFFFFF; cursor: pointer; flex: 0 0 auto; font-family: 'Inter var',ui-sans-serif,system-ui,-apple-system,system-ui,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'; font-size: 1.125rem; font-weight: 600; line-height: 1.5rem; padding: .75rem 1.2rem; text-align: center; text-decoration: none #6B7280 solid; text-decoration-thickness: auto; transition-duration: .2s; transition-property: background-color,border-color,color,fill,stroke; transition-timing-function: cubic-bezier(.4, 0, 0.2, 1); user-select: none; -webkit-user-select: none; touch-action: manipulation; width: auto;">Share OneElevate TV</button>
   
   <br/><br/>
   
@@ -59,21 +59,21 @@ The app is free!
 
 ### **Disclaimer**
 
-We are not providing the channels ourselves and all the channels provided on OneTV are publicly available on the Internet. To the best of our knowledge, the owners of channels intended the channels to be watched through various Internet browsers and live TV streaming interfaces, such as OneTV.
+We are not providing the channels ourselves and all the channels provided on OneElevate TV are publicly available on the Internet. To the best of our knowledge, the owners of channels intended the channels to be watched through various Internet browsers and live TV streaming interfaces, such as OneElevate TV.
 
 ### **Request to Remove Channels**
 
-If you are the owner of a channel and would not want the channel to be available on OneTV, please send us an email at developer.onetv@gmail.com and we will remove the channel immediately.
+If you are the owner of a channel and would not want the channel to be available on OneElevate TV, please send us an email at developer.onetv@gmail.com and we will remove the channel immediately.
 
 ### **Privacy Policy**
 
-OneTV built the OneTV app as a Free app. This SERVICE is provided by OneTV at no cost and is intended for use as is.
+OneElevate Tech Inc. built the OneElevate TV app as a Free app. This SERVICE is provided by OneElevate Tech Inc. at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at OneTV unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at OneElevate TV unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
